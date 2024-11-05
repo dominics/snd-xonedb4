@@ -8,9 +8,9 @@
 	<array>
 		<dict>
 			<key>idVendor</key>
-			<integer>2634</integer>
+			<integer>1378</integer>
 			<key>idProduct</key>
-			<integer>65499</integer>
+			<integer>1003</integer>
 		</dict>
 	</array>
 	<key>com.apple.developer.driverkit.family.audio</key>

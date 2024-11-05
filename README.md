@@ -1,3 +1,13 @@
+# Fork for Dynacord
+
+Targeting the hardware I have, which is the old hardware version of the Dynacord CMS-600-3
+
+Changing only the Mac part of the driver so far.
+
+## Changes
+
+- Changed vendor and product IDs in the entitlements plist
+
 # snd-xonedb4
 
 This is a driver for the Allen & Heath Xone:DB4 mixer.
